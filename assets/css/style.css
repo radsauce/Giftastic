@@ -1,0 +1,13 @@
+img {
+  height: 150px;
+  width: 150px;
+  border-radius: 25px;
+  padding: 10px;
+}
+.row {
+  justify-content: center;
+  padding: 10px;
+}
+h5 {
+  text-align: center;
+}
